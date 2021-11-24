@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/jvdb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jvdb.org
+  * I am jvdb (https://keybase.io/jvdb) on keybase.
+  * I have a public key with fingerprint B2CE 7EA3 634C 76C8 C57E  AA88 E7B6 0DF4 EBA7 2980
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b2ce7ea3634c76c8c57eaa88e7b60df4eba72980",
+            "host": "keybase.io",
+            "key_id": "e7b60df4eba72980",
+            "kid": "0101e0241f1be7bb9909efd11abbc39b32ffa598ce1a8dd7b56c71f34998354c1dcb0a",
+            "uid": "682dc385739a368a75078678eebfd119",
+            "username": "jvdb"
+        },
+        "service": {
+            "hostname": "jvdb.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424864974,
+    "expire_in": 157680000,
+    "prev": null,
+    "seqno": 1,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.4
+Comment: https://keybase.io/crypto
+
+yMHrAnicO8LLzMDFuKX5smn27lILxtMHfpUyhLzddq5aKSk/pVLJqlopOxVMpWXm
+pacWFRRl5pUoWSklGSWnmqcmGpsZmySbmyVbJJsCeYkWFqnmSWYGKWkmqUmJ5kaW
+FgZKOkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6bLCEgaGBYaqBkYlhmmESUFGS
+paWBZWpaiqFhYlJSsrFlkrFRWlqiqaVFcqphokVKinmSqVmyuWGasYmlpYWxqUmy
+YUpykkEi0LhSsHFmFkYpycYWpubGlkBHWySamxqYW5iZW6SmJoEMtQQpLE4tykvM
+TQWqzipLSVKq1VECipRlJqeCvA/yBZKsXn5ROlBPQVF+SX5yfg5QNKOkpMAKpKmk
+sgCkqjw1KR6qPz4pMy8FGHxADWWpRcWZ+XlKVoZAlcklmSADDU2MTCzMTCzNTXSU
+UisKMotS4zNBKkzNzSwMgABkTWqZklVeaU4OyE2FeflAWaBFielAe4oz0/MSS0qL
+UpVqDx2IYWFg5GJgY2UCRSEDF6cALGJ3NbL/r9bKkfb1UTryhvlH9+Ft/n+2bzvI
+8tTo2DyPDfnPn7+3je6NbtRW8fvxaeeusz0KMVlTT9vckzzRuij5w1ZRgyxBi7TK
+p/Ebw6Oj/k+ZpbqmY6vUYUEXAcN1XhKvfggcKt9ySOHRV/a83dc9ojkPWVn8Pu5/
+5oHwwvlhfkvs/qga579nO16/VDO3TrLtEde6jsaK75KS/1vyTz673xa6zC1Twzst
+ns04YrbMhzXX4xcfWPNpK2O6q7pT3s09in1uF2fELz2kcv/nufhZoVczTgdPKq48
+sHBJjKNhSqGT+Ir1EQ/+CVpGC91x75B/KTjDfd3hzu5g5ejdaWG35cV2P9jXfkTt
+R8vsovsTRENrACxgG24=
+=it90
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jvdb
+
+==================================================================
+
